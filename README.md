@@ -1,2 +1,2 @@
 # socket-cli
-socket assist tools
+socket assist command line tools
